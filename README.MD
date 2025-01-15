@@ -1,4 +1,4 @@
-# 🛡️ Code Obfuscator By Mael Salah
+<h1 align="center"> 🛡️ Code Obfuscator By Mael Salah </h1>
 
 Welcome to the **Code Obfuscator & Encryptor** project! This Python-based tool is designed to protect your code from reverse engineering and unauthorized access by obfuscating and encrypting it. It leverages libraries like `cryptography`, `zlib`, and `base64` to ensure your code remains secure and obscured.
 
