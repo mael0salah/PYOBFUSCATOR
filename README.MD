@@ -28,7 +28,7 @@ Follow these steps to get started:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/mael0salah/OBFUSCATOR.git
+    git clone https://github.com/mael0salah/PYOBFUSCATOR.git
     cd Obfuscator
     ```
 
